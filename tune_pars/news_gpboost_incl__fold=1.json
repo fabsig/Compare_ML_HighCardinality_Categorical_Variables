@@ -1,0 +1,11 @@
+{
+	"best_params" : {
+		"learning_rate" : 0.1,
+		"min_data_in_leaf" : 100,
+		"max_depth" : 10,
+		"lambda_l2" : 0
+	},
+	"best_iter" : 232,
+	"best_score" : 1.673824,
+	"time" : 29257.81
+}

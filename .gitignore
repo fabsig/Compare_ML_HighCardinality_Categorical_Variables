@@ -1,0 +1,11 @@
+article/
+raw_data/
+data/rossmann.csv.gz
+aggregate_results.R
+catboost_info/
+tmp/
+test/
+learn_error.tsv
+test_error.tsv
+time_left.tsv
+catboost_training.json
