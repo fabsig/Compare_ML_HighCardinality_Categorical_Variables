@@ -5,6 +5,7 @@ aggregate_results.R
 catboost_info/
 tmp/
 test/
+learn/
 learn_error.tsv
 test_error.tsv
 time_left.tsv
