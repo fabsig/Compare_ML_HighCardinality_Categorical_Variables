@@ -10,3 +10,4 @@ learn_error.tsv
 test_error.tsv
 time_left.tsv
 catboost_training.json
+todo.txt
